@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "WORK_THR",
+"productVersion": "0.1",
+"dataUrl": "Work_3_WEB.data.unityweb",
+"wasmCodeUrl": "Work_3_WEB.wasm.code.unityweb",
+"wasmFrameworkUrl": "Work_3_WEB.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.0f1"
+}
